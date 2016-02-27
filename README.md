@@ -32,7 +32,7 @@
 |:--|--:|:--:|
 |align left|align right|align center|
 |a|b|c|
-
+|a|b|c|
 
 |:--|:--:|--:|
 |左|中央のやつ|右|
