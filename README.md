@@ -11,7 +11,11 @@
     - newdays*newdays*newdays
 ***
     - > お世話になります。xxxです。
+    - 
 [Google先生](https://www.google.co.jp/)
+
+
+    http://google.com
 
 > ご連絡いただいた、バグの件ですが、仕様です。
 
@@ -28,5 +32,5 @@
         print 'hoge'
       end
     end
-インストールコマンドは `gem install hoge` です
-
+インストールコマンドは `gem install h
+http://google.com
