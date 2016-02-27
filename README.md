@@ -27,6 +27,16 @@
 >> あの新機能バグってるっすね
 
     # Space
+
+|header1|header2|header3|
+|:--|--:|:--:|
+|align left|align right|align center|
+|a|b|c|
+
+
+|:--|:--:|--:|
+|左|中央のやつ|右|
+
     class Hoge
       def hoge
         print 'hoge'
